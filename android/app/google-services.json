@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950656123046",
+    "project_id": "persistventure-ce7a5",
+    "storage_bucket": "persistventure-ce7a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950656123046:android:2b6ca670b62cdc5c057467",
+        "android_client_info": {
+          "package_name": "com.example.persist_ventures"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqlWxoraR5-hKf9ezeQiFcinW6Q4qbno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
