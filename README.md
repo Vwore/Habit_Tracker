@@ -1,8 +1,10 @@
 Habit Tracker
+
 Project Overview
 Habit Tracker is a Flutter application designed to help users manage and track their habits. The app provides features for habit management, including creating and editing habits, setting reminders, tracking progress, and viewing statistics.
 
 Features
+
 Habit Management: Add, edit, and delete habits.
 Progress Tracking: View daily, weekly, and monthly progress.
 Statistics: Visualize habit tracking data with charts and graphs.
@@ -44,6 +46,7 @@ assets/: Contains images and other assets used in the app.
 pubspec.yaml: Lists the dependencies and configuration for the Flutter project.
 
 Usage Instructions
+
 Add a Habit: Navigate to the habit creation screen and input habit details.
 Edit a Habit: Select a habit from the list and modify its details.
 Delete a Habit: Press Delete button from edit dialog box.
